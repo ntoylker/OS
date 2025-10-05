@@ -1,0 +1,5 @@
+mkdir quiz-1 & cd quiz-1
+./aem.sh
+./creates_files.sh
+./fill_files.sh
+./count.sh > report.txt
