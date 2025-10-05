@@ -1,4 +1,4 @@
-🖥️ Operating Systems – University Course Repository
+**🖥️ Operating Systems – University Course Repository**
 (Created for academic and learning purposes.)
 
 This repository contains my work for the Operating Systems course.
